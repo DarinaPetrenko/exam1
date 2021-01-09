@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\examtask\examtask\bin\Debug\examtask.exe.config
+C:\Users\User\source\repos\examtask\examtask\bin\Debug\examtask.exe
+C:\Users\User\source\repos\examtask\examtask\bin\Debug\examtask.pdb
+C:\Users\User\source\repos\examtask\examtask\obj\Debug\examtask.csprojAssemblyReference.cache
+C:\Users\User\source\repos\examtask\examtask\obj\Debug\examtask.exe
+C:\Users\User\source\repos\examtask\examtask\obj\Debug\examtask.pdb
+C:\Users\User\source\repos\examtask\examtask\bin\Debug\EntityFramework.dll
+C:\Users\User\source\repos\examtask\examtask\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\examtask\examtask\bin\Debug\EntityFramework.xml
+C:\Users\User\source\repos\examtask\examtask\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\source\repos\examtask\examtask\obj\Debug\examtask.csproj.CopyComplete
+C:\Users\User\source\repos\examtask\examtask\obj\Debug\examtask.Migrations.v1.resources
+C:\Users\User\source\repos\examtask\examtask\obj\Debug\examtask.csproj.GenerateResource.cache
