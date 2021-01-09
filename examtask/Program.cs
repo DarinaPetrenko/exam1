@@ -77,17 +77,9 @@ namespace ConsoleApp11
                 var doctors = from d in ctx.Doctors
                               join c in ctx.Cities on d.CityId equals c.Id
                               where c.Id == id
-                              select new { Spesialisation = d.Spesialisation };
-
-                if (doctors.Count() > 0)
-                {
-                    foreach (var d in doctors)
-                    {
-                        specs.Add(d.Spesialisation);
-                    }
-                    return specs;
-                }
-                return null;
+                              select d.Spesialisation;
+                
+                return doctors.ToList();
             }
         }
         static void Main(string[] args)
